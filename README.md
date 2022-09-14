@@ -1,6 +1,7 @@
 # NCBD
 
-### NanNing Nomal University Classroom Action Recognition Datasets
+### NanNing Nomal University Classroom Behavior Datasets
+
 
 出于对学生隐私的保护，数据集以特征的形式共享。在获取特征数据之前，您需要需要签署隐私保护协议，请通过邮箱联系w258765@gmail.com。
 
