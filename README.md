@@ -1,4 +1,4 @@
-<img width="432" height="86" alt="image" src="https://github.com/user-attachments/assets/5c4ef84e-7485-4152-97d4-2e4c2e59db9a" /># NCBD: NanNing Normal University Classroom Behavior Datasets
+<img width="432" height="86" alt="image" src="https://github.com/user-attachments/assets/5c4ef84e-7485-4152-97d4-2e4c2e59db9a" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
