@@ -1,4 +1,4 @@
-<img width="432" height="86" alt="image" src="https://github.com/user-attachments/assets/5c4ef84e-7485-4152-97d4-2e4c2e59db9a" />
+<img width="432" height="86" alt="image" src="https://github.com/user-attachments/assets/0be73a90-01bd-456e-b774-ae877fe9a7a0" /><img width="432" height="86" alt="image" src="https://github.com/user-attachments/assets/5c4ef84e-7485-4152-97d4-2e4c2e59db9a" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -74,7 +74,7 @@ If you use the NCBD dataset in your research, please cite our work:
 ```bibtex
 @phdthesis{Wang_NCBD_2024,
   author  = {Ye, Wang},
-  title   = {{Research on classroom behavior recognition in open environments}},
+  title   = {{Research and application of student classroom behavior recognition in an open environment}},
   school  = {NanNing Normal University},
   year    = {2024},
   note    = {Original title: 开放环境下的学生课堂行为识别研究及应用}
